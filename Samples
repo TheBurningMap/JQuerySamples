@@ -1,0 +1,5 @@
+Insight -Access the tabs element:
+
+$("#rdTabs-TabElementName .yui-nav>li").click(function(){
+alert("Hello");
+})
